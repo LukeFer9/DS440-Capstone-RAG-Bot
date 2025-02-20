@@ -1,0 +1,7 @@
+*.txt
+*.json
+*.csv
+*.npy
+*.mbox
+*.eml
+*.__pycache__
